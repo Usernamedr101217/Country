@@ -172,7 +172,7 @@ span {
   main {
     grid-template-columns: 12em 12em;
     column-gap: 0;
-    margin-left: 45px;
+    margin-left: 72px;
   }
   .short {
     width: 8em;
