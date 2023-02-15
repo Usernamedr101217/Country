@@ -22,7 +22,7 @@ export default function Header() {
         <div className="section-center">
             <header>
                 <h1>Country Data</h1>
-                <p><i>Information about all country, there still some information missing though</i></p>
+                <p><i>The presentation of information about all countries, it may not be flashy, but it kinda works!</i></p>
 
                 <form>
                     <input 
